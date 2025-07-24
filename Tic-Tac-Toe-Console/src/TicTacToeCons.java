@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TicTacToe{
+public class TicTacToeCons {
     public static void main(String args[]){
         char[][] Board = new char[3][3];
         for(int row = 0; row < Board.length; row++){
